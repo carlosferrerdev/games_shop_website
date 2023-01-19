@@ -1,3 +1,3 @@
 ### Games Shop
 
-Site criado utilizando apenas utilizando HTML e CSS.
+Site de uma loja de games criado utilizando apenas utilizando HTML e CSS.
